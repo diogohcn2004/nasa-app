@@ -1,4 +1,4 @@
-package com.example.nasastructure
+package com.example.nasastructure.data.models
 
 data class nasaAPI(
     val copyright: String,
